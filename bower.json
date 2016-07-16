@@ -1,0 +1,24 @@
+{
+  "name": "stuartwakefield2016-styles-positions",
+  "authors": [
+    "Stuart Wakefield <me@stuartwakefield.co.uk>"
+  ],
+  "description": "The styling for positions for the Stuart Wakefield 2016 website.",
+  "main": "header.css",
+  "moduleType": [],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://stuartwakefield.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stuartwakefield2016-styles-base": "~0.1.0"
+  }
+}

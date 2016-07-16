@@ -1,0 +1,23 @@
+.positions {
+  list-style: none;
+  padding-right: 0;
+}
+
+.positions > li::before {
+  content: "";
+  float: left;
+  margin-left: -2em;
+  width: 1.25em;
+  height: 1.25em;
+  background: url('images/crown.svg') no-repeat center;
+}
+
+.positions > li > span:first-child {
+  color: #FC735C;
+  float: right;
+  font-style: italic;
+}
+
+.positions > li > span + span {
+  color: #3B3415;
+}
