@@ -4,7 +4,7 @@
     "Stuart Wakefield <me@stuartwakefield.co.uk>"
   ],
   "description": "The styling for positions for the Stuart Wakefield 2016 website.",
-  "main": "header.css",
+  "main": "positions.css",
   "moduleType": [],
   "keywords": [
     "css"
